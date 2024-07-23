@@ -1,0 +1,9 @@
+help('modules')
+
+import sys
+for item in sys.modules:
+    print(item)
+
+print(dir())
+
+pip list
