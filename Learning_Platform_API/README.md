@@ -254,5 +254,5 @@ Request example:
 
 Response example:
 ```html
-<img src="Your data has been saved!">
+"Your data has been saved!"
 ```
