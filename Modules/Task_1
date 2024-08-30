@@ -1,0 +1,14 @@
+import statistics
+print(statistics.mean([1, 2, 3, 4, 5]))
+
+from statistics import *
+print(mean([1, 2, 3, 4, 5]))
+
+from statistics import mean
+print(mean([1, 2, 3, 4, 5]))
+
+from statistics import mean as average
+print(average([1, 2, 3, 4, 5]))
+
+import statistics as scitsitats
+print(scitsitats.mean([1, 2, 3, 4, 5]))
